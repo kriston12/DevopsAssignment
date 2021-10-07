@@ -1,0 +1,1 @@
+Adding new features into FileA to make the code better
