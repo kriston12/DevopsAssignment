@@ -1,1 +1,1 @@
-Adding new features into FileA to make the code better
+Adding new features into NewFileA which will be more efficient than the code in FileA
