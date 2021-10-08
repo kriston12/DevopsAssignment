@@ -1,10 +1,10 @@
-<h1># DevopsAssignment</h1>
+# DevopsAssignment
 
 This is a simple basic README file for our DevopsAssignment Repo.
 
-<h2>Collaborators in this Assignment</h2>
-•	Mohammad Avesh   - 2021MT93236 (Collaborators)
-•	Karan Sharma 	        - 2021MT93249 (Collaborators)
-•	Tejaswi Kumbham    - 2021MT93253 (Collaborators)
+## Team Members
+1. Mohammad Avesh   - 2021MT93236 (Collaborators)
+2. Karan Sharma	    - 2021MT93249 (Collaborators)
+3. Tejaswi Kumbham  - 2021MT93253 (Collaborators)
 
 
